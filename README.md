@@ -1,5 +1,6 @@
 <h1 align=center>Custom Snap Code</h1>
 
+## *I just realized that since I am using a template, the SnapCode will be incorrect and wont have the correct code. Dont use this tool for now. I will fix this major issue very soon*
 <p align=center>
 <img src="https://raw.githubusercontent.com/jusleg/snaptag/master/img/snap.gif"/>
 </p>
